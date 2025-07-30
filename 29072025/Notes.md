@@ -1,13 +1,13 @@
 29/07/2025
 
 1. Creating and Using the modules in Nodejs
-2. Create a simple server
-3. Parsing a request paths
-4. Parsing a headers
-5. Parsing a payload
-6. Parsing a query
-7. Parsing a HTTP methods ////
-8. Routing the requests
+2. Create a simple server \*\*
+3. Parsing a request paths \*\*
+4. Parsing a headers \*\*
+5. Parsing a payload \*\*
+6. Parsing a query \*\*
+7. Parsing a HTTP methods ////\*\* \*/
+8. Routing the requests\*\*\*\*
 9. Returning JSON
 10. Adding a configuration for different environment
 
