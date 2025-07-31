@@ -15,6 +15,7 @@
 
 11. Adding a HTTPS support
 12. Store data locally
+    12.1 Play with Users.
 13. Play with tokens
 14. Validate tokens
 15. Connecting APIs
